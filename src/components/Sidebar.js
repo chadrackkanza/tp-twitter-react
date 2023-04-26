@@ -30,8 +30,7 @@ export default function Sidebar(){
 
     function handleClick() {
         setNumber(number => number + 1)
-        setNumber(number => number + 1)
-        setNumber(number => number + 1)
+
     }
     return(
         <div className='sidebar'>
